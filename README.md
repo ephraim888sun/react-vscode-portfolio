@@ -116,7 +116,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
       {
         index: 0,
         title: "Find me on Github",
-        href: "https://github.com/noworneverev",
+        href: "https://github.com/ephraim888sun",
         icon: <FaGithub />,
       },
     ];
